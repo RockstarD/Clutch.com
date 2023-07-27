@@ -6,13 +6,12 @@ import { ShoppingBasket } from "@mui/icons-material";
 import { useStateValue } from './StateProvider';
 
 function Header() {
-  // eslint-disable-next-line
 const [{basket},dispatch]=useStateValue();
-// const addToBasket=()=>{
-// dispatch({
+const addToBasket=()=>{
+dispatch({
 
-// })
-// };
+})
+};
   return (
     <nav className="header">
         {/*logo */}
