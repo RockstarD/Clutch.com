@@ -7,11 +7,11 @@ import { useStateValue } from './StateProvider';
 
 function Header() {
 const [{basket},dispatch]=useStateValue();
-const addToBasket=()=>{
-dispatch({
+// const addToBasket=()=>{
+// dispatch({
 
-})
-};
+// })
+// };
   return (
     <nav className="header">
         {/*logo */}
