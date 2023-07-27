@@ -7,6 +7,7 @@ import { useStateValue } from './StateProvider';
 
 function Header() {
 const [{basket},dispatch]=useStateValue();
+// eslint-disable-next-line
 const addToBasket=()=>{
 dispatch({
 
