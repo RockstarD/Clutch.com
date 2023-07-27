@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https;//RockstarD.github.io/Clutch.com/static/css/main.d380da08.css",
+    "main.js": "/https;//RockstarD.github.io/Clutch.com/static/js/main.188dc305.js",
+    "static/js/787.ebd7646a.chunk.js": "/https;//RockstarD.github.io/Clutch.com/static/js/787.ebd7646a.chunk.js",
+    "index.html": "/https;//RockstarD.github.io/Clutch.com/index.html",
+    "main.d380da08.css.map": "/https;//RockstarD.github.io/Clutch.com/static/css/main.d380da08.css.map",
+    "main.188dc305.js.map": "/https;//RockstarD.github.io/Clutch.com/static/js/main.188dc305.js.map",
+    "787.ebd7646a.chunk.js.map": "/https;//RockstarD.github.io/Clutch.com/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d380da08.css",
+    "static/js/main.188dc305.js"
+  ]
+}
